@@ -1,0 +1,1 @@
+DROP DATABASE tugas_tpa4;
